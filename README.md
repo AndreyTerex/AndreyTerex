@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+3+%7C+PostgreSQL+%7C+Docker;Clean+Architecture+%7C+REST+APIs+%7C+Testing;Kafka%2C+Redis%2C+Keycloak%2C+CI%2FCD" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Java Backend Developer</h3>
 
 <details open>
