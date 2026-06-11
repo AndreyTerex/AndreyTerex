@@ -13,8 +13,7 @@
 
   
 🔭 I’m a Java backend developer who builds clear, resilient REST services with Java 17/21 and Spring Boot. I focus on simple API contracts, predictable behavior, and strong validation.  
-💼 Daily stack: Java 17/21, Spring Boot, JPA/Hibernate, MapStruct, PostgreSQL, Docker, Gradle, Git.  
-🌱 Learning: Kafka, Redis, Keycloak, CI/CD.   
+💼 Daily stack: Java 17/21, Spring Boot, JPA/Hibernate, MapStruct, PostgreSQL, Docker, Gradle, Git, Kafka, Redis, Keycloak, CI/CD.
 📫 Reach me: katazheh@gmail.com
 
 </details>
@@ -24,8 +23,7 @@
 
   
 🔭 Разрабатываю понятные и надёжные REST-сервисы на Java 17/21 и Spring Boot; ценю простые контракты API, предсказуемость и строгую валидацию.  
-💼 Ежедневный стек: Java 17/21, Spring Boot, JPA/Hibernate, MapStruct, PostgreSQL, Docker, Gradle, Git.  
-🌱 Изучаю: Kafka, Redis, Keycloak, CI/CD.  
+💼 Ежедневный стек: Java 17/21, Spring Boot, JPA/Hibernate, MapStruct, PostgreSQL, Docker, Gradle, Git, Kafka, Redis, Keycloak, CI/CD. 
 📫 Связь: katazheh@gmail.com
 
 </details>
